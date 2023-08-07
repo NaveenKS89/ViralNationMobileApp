@@ -114,8 +114,8 @@ const styles = StyleSheet.create({
     alignSelf: 'stretch',
     borderRadius: 8,
     backgroundColor: '#eee',
-    maxHeight: 218,
-    height: 218,
+    //maxHeight: 218,
+    //height: 218,
     marginBottom: 24,
   },
   cardContainer_dark: {
@@ -127,8 +127,8 @@ const styles = StyleSheet.create({
     alignSelf: 'stretch',
     borderRadius: 8,
     backgroundColor: '#181A1C',
-    maxHeight: 218,
-    height: 218,
+    //maxHeight: 218,
+    //height: 218,
     marginBottom: 24,
   },
   cardTopContainer: {
