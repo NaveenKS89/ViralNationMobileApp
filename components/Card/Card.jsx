@@ -114,9 +114,8 @@ const styles = StyleSheet.create({
     alignSelf: 'stretch',
     borderRadius: 8,
     backgroundColor: '#eee',
-    //maxHeight: 218,
-    //height: 218,
     marginBottom: 24,
+    flex: 1,
   },
   cardContainer_dark: {
     flexDirection: 'column',
@@ -127,9 +126,8 @@ const styles = StyleSheet.create({
     alignSelf: 'stretch',
     borderRadius: 8,
     backgroundColor: '#181A1C',
-    //maxHeight: 218,
-    //height: 218,
     marginBottom: 24,
+    flex: 1,
   },
   cardTopContainer: {
     flexDirection: 'row',
