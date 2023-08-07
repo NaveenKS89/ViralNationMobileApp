@@ -19,7 +19,6 @@ const Input = ({
 }) => {
   const theme = useSelector(state => state.theme);
 
-  console.log(inputError);
   return (
     <View
       style={[styles.inputContainer, halfWidth === true ? {width: '45%'} : {}]}>

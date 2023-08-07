@@ -14,7 +14,6 @@ function skipLimitPagination(keyArgs = false) {
       const merged = existing ? existing.slice(0) : [];
       const existingIndex = existing ? existing.length : 0;
 
-      console.log(existing, incoming);
       for (let i = 0; i < incoming.length; ++i) {
         merged[existingIndex + i] = incoming[i];
       }
